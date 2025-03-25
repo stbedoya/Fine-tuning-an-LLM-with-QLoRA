@@ -20,3 +20,5 @@ env/
 # folder with models 
 models/
 .ipynb_checkpoints/
+
+llama-3-8b-chat-doctor/

@@ -22,3 +22,4 @@ models/
 .ipynb_checkpoints/
 
 llama-3-8b-chat-doctor/
+llama-3-8b-chat-doctor/checkpoint-*/
